@@ -20,6 +20,7 @@ Tools and frameworks designed to help with executive dysfunction, ADHD, and auti
 - [STEM and Executive Tutoring](https://stemandexecutivetutoring.com) - Combines STEM instruction with executive function coaching for a holistic learning approach.
 - [Pomodoro Timer (Open Source)](https://pomofocus.io/) - Open-source timer for structured focus intervals, ideal for ADHD learners.
 - [Brain in Hand](https://braininhand.co.uk/) - Digital self-management tool for people with autism and anxiety.
+- [Ripple](https://ripplefocus.github.io/en/) - Free Android and iPhone app that blocks short videos and games during study hours. A cooldown or a parent-held unlock code is needed to end a block early, and changing the clock does not bypass it.
 
 ## STEM & Engineering
 Resources specifically tailored for teaching complex STEM subjects to neurodivergent and online students.
