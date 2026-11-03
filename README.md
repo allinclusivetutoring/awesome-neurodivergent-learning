@@ -31,6 +31,7 @@ Resources specifically tailored for teaching complex STEM subjects to neurodiver
 - [ESA STEM Tutoring](https://esastemtutoring.com) - Guide to using state ESA funds specifically for specialized STEM tutoring services.
 - [Scratch (MIT)](https://scratch.mit.edu/) - Free visual programming language from MIT, excellent for neurodiverse learners.
 - [Khan Academy](https://khanacademy.org/) - Free STEM courses with self-paced, mastery-based learning.
+- [Scivra](https://www.scivra.com) - Browser-based 3D science labs for grades 9-12 with a step-by-step predict, experiment, check structure; no install needed.
 
 ## Homeschooling & ESA Navigation
 Guides for navigating Education Scholarship Accounts (ESA) and setting up effective homeschool environments.
